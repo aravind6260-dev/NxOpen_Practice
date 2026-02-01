@@ -1,0 +1,6 @@
+E:\Training\RaviTeja\NxOpen\VSCode\SphereVs\SphereCreation_1\bin\Debug\SphereCreation_1.dll
+E:\Training\RaviTeja\NxOpen\VSCode\SphereVs\SphereCreation_1\bin\Debug\SphereCreation_1.pdb
+E:\Training\RaviTeja\NxOpen\VSCode\SphereVs\SphereCreation_1\obj\Debug\SphereCreation_1.csproj.AssemblyReference.cache
+E:\Training\RaviTeja\NxOpen\VSCode\SphereVs\SphereCreation_1\obj\Debug\SphereCreation_1.csproj.CoreCompileInputs.cache
+E:\Training\RaviTeja\NxOpen\VSCode\SphereVs\SphereCreation_1\obj\Debug\SphereCreation_1.dll
+E:\Training\RaviTeja\NxOpen\VSCode\SphereVs\SphereCreation_1\obj\Debug\SphereCreation_1.pdb

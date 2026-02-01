@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Training\\RaviTeja\\NxOpen\\VSCode\\CylinderVs\\CreationOfCylinder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B09D088B-A6B2-4256-BF53-298E8D381E00}|CreationOfCylinder.csproj|e:\\training\\raviteja\\nxopen\\vscode\\cylindervs\\creationofcylinder\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B09D088B-A6B2-4256-BF53-298E8D381E00}|CreationOfCylinder.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B09D088B-A6B2-4256-BF53-298E8D381E00}|CreationOfCylinder.csproj|E:\\Training\\RaviTeja\\NxOpen\\VSCode\\CylinderVs\\CreationOfCylinder\\cyindercreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B09D088B-A6B2-4256-BF53-298E8D381E00}|CreationOfCylinder.csproj|solutionrelative:cyindercreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CyinderCreation.cs",
+              "DocumentMoniker": "E:\\Training\\RaviTeja\\NxOpen\\VSCode\\CylinderVs\\CreationOfCylinder\\CyinderCreation.cs",
+              "RelativeDocumentMoniker": "CyinderCreation.cs",
+              "ToolTip": "E:\\Training\\RaviTeja\\NxOpen\\VSCode\\CylinderVs\\CreationOfCylinder\\CyinderCreation.cs",
+              "RelativeToolTip": "CyinderCreation.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAADwv/wAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T17:18:49.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Training\\RaviTeja\\NxOpen\\VSCode\\CylinderVs\\CreationOfCylinder\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "E:\\Training\\RaviTeja\\NxOpen\\VSCode\\CylinderVs\\CreationOfCylinder\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T17:17:39.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

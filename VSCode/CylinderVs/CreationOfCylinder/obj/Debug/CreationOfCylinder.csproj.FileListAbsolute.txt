@@ -1,0 +1,6 @@
+E:\Training\RaviTeja\NxOpen\VSCode\CylinderVs\CreationOfCylinder\bin\Debug\CreationOfCylinder.dll
+E:\Training\RaviTeja\NxOpen\VSCode\CylinderVs\CreationOfCylinder\bin\Debug\CreationOfCylinder.pdb
+E:\Training\RaviTeja\NxOpen\VSCode\CylinderVs\CreationOfCylinder\obj\Debug\CreationOfCylinder.csproj.AssemblyReference.cache
+E:\Training\RaviTeja\NxOpen\VSCode\CylinderVs\CreationOfCylinder\obj\Debug\CreationOfCylinder.csproj.CoreCompileInputs.cache
+E:\Training\RaviTeja\NxOpen\VSCode\CylinderVs\CreationOfCylinder\obj\Debug\CreationOfCylinder.dll
+E:\Training\RaviTeja\NxOpen\VSCode\CylinderVs\CreationOfCylinder\obj\Debug\CreationOfCylinder.pdb

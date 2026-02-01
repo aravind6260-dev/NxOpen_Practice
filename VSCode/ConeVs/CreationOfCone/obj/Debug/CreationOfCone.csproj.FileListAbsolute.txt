@@ -1,0 +1,6 @@
+E:\Training\RaviTeja\NxOpen\VSCode\ConeVs\CreationOfCone\bin\Debug\CreationOfCone.dll
+E:\Training\RaviTeja\NxOpen\VSCode\ConeVs\CreationOfCone\bin\Debug\CreationOfCone.pdb
+E:\Training\RaviTeja\NxOpen\VSCode\ConeVs\CreationOfCone\obj\Debug\CreationOfCone.csproj.AssemblyReference.cache
+E:\Training\RaviTeja\NxOpen\VSCode\ConeVs\CreationOfCone\obj\Debug\CreationOfCone.csproj.CoreCompileInputs.cache
+E:\Training\RaviTeja\NxOpen\VSCode\ConeVs\CreationOfCone\obj\Debug\CreationOfCone.dll
+E:\Training\RaviTeja\NxOpen\VSCode\ConeVs\CreationOfCone\obj\Debug\CreationOfCone.pdb

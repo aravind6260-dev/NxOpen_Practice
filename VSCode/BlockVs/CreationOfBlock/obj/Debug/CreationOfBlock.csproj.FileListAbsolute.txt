@@ -1,0 +1,6 @@
+E:\Training\RaviTeja\NxOpen\VSCode\BlockVs\CreationOfBlock\bin\Debug\CreationOfBlock.dll
+E:\Training\RaviTeja\NxOpen\VSCode\BlockVs\CreationOfBlock\bin\Debug\CreationOfBlock.pdb
+E:\Training\RaviTeja\NxOpen\VSCode\BlockVs\CreationOfBlock\obj\Debug\CreationOfBlock.csproj.AssemblyReference.cache
+E:\Training\RaviTeja\NxOpen\VSCode\BlockVs\CreationOfBlock\obj\Debug\CreationOfBlock.csproj.CoreCompileInputs.cache
+E:\Training\RaviTeja\NxOpen\VSCode\BlockVs\CreationOfBlock\obj\Debug\CreationOfBlock.dll
+E:\Training\RaviTeja\NxOpen\VSCode\BlockVs\CreationOfBlock\obj\Debug\CreationOfBlock.pdb

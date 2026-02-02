@@ -1,0 +1,6 @@
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\Nx_tasks\VsCode\BlockUI\CreationOfBlock\bin\Debug\CreationOfBlock.dll
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\Nx_tasks\VsCode\BlockUI\CreationOfBlock\bin\Debug\CreationOfBlock.pdb
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\Nx_tasks\VsCode\BlockUI\CreationOfBlock\obj\Debug\CreationOfBlock.csproj.AssemblyReference.cache
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\Nx_tasks\VsCode\BlockUI\CreationOfBlock\obj\Debug\CreationOfBlock.csproj.CoreCompileInputs.cache
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\Nx_tasks\VsCode\BlockUI\CreationOfBlock\obj\Debug\CreationOfBlock.dll
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\Nx_tasks\VsCode\BlockUI\CreationOfBlock\obj\Debug\CreationOfBlock.pdb

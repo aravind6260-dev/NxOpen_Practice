@@ -1,0 +1,6 @@
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\Nx_tasks\VsCode\CylinderUI\CreationOfCylinder_1\bin\Debug\CreationOfCylinder_1.dll
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\Nx_tasks\VsCode\CylinderUI\CreationOfCylinder_1\bin\Debug\CreationOfCylinder_1.pdb
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\Nx_tasks\VsCode\CylinderUI\CreationOfCylinder_1\obj\Debug\CreationOfCylinder_1.csproj.AssemblyReference.cache
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\Nx_tasks\VsCode\CylinderUI\CreationOfCylinder_1\obj\Debug\CreationOfCylinder_1.csproj.CoreCompileInputs.cache
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\Nx_tasks\VsCode\CylinderUI\CreationOfCylinder_1\obj\Debug\CreationOfCylinder_1.dll
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\Nx_tasks\VsCode\CylinderUI\CreationOfCylinder_1\obj\Debug\CreationOfCylinder_1.pdb

@@ -1,0 +1,6 @@
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\Nx_tasks\VsCode\ConeUI\CreationOfCone_1\bin\Debug\CreationOfCone_1.dll
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\Nx_tasks\VsCode\ConeUI\CreationOfCone_1\bin\Debug\CreationOfCone_1.pdb
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\Nx_tasks\VsCode\ConeUI\CreationOfCone_1\obj\Debug\CreationOfCone_1.csproj.AssemblyReference.cache
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\Nx_tasks\VsCode\ConeUI\CreationOfCone_1\obj\Debug\CreationOfCone_1.csproj.CoreCompileInputs.cache
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\Nx_tasks\VsCode\ConeUI\CreationOfCone_1\obj\Debug\CreationOfCone_1.dll
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\Nx_tasks\VsCode\ConeUI\CreationOfCone_1\obj\Debug\CreationOfCone_1.pdb

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Nxopen\\Nx_tasks\\VsCode\\BlockUI\\CreationOfBlock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA531A2-5071-4158-94EC-B46C38CCDC14}|CreationOfBlock.csproj|c:\\users\\arvredd\\desktop\\prac_c_s\\training_practice\\raviteja\\nxopen\\nx_tasks\\vscode\\blockui\\creationofblock\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA531A2-5071-4158-94EC-B46C38CCDC14}|CreationOfBlock.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA531A2-5071-4158-94EC-B46C38CCDC14}|CreationOfBlock.csproj|C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Nxopen\\Nx_tasks\\VsCode\\BlockUI\\CreationOfBlock\\blockcreation_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA531A2-5071-4158-94EC-B46C38CCDC14}|CreationOfBlock.csproj|solutionrelative:blockcreation_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlockCreation_1.cs",
+              "DocumentMoniker": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Nxopen\\Nx_tasks\\VsCode\\BlockUI\\CreationOfBlock\\BlockCreation_1.cs",
+              "RelativeDocumentMoniker": "BlockCreation_1.cs",
+              "ToolTip": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Nxopen\\Nx_tasks\\VsCode\\BlockUI\\CreationOfBlock\\BlockCreation_1.cs",
+              "RelativeToolTip": "BlockCreation_1.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAwwBMBAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T06:07:11.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Nxopen\\Nx_tasks\\VsCode\\BlockUI\\CreationOfBlock\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Nxopen\\Nx_tasks\\VsCode\\BlockUI\\CreationOfBlock\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T06:05:47.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

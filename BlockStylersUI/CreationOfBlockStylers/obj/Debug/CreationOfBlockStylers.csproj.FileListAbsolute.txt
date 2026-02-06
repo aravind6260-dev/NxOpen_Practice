@@ -1,0 +1,6 @@
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\Nx_tasks\VsCode\BlockStylersUI\CreationOfBlockStylers\bin\Debug\CreationOfBlockStylers.dll
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\Nx_tasks\VsCode\BlockStylersUI\CreationOfBlockStylers\bin\Debug\CreationOfBlockStylers.pdb
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\Nx_tasks\VsCode\BlockStylersUI\CreationOfBlockStylers\obj\Debug\CreationOfBlockStylers.csproj.AssemblyReference.cache
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\Nx_tasks\VsCode\BlockStylersUI\CreationOfBlockStylers\obj\Debug\CreationOfBlockStylers.csproj.CoreCompileInputs.cache
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\Nx_tasks\VsCode\BlockStylersUI\CreationOfBlockStylers\obj\Debug\CreationOfBlockStylers.dll
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\Nx_tasks\VsCode\BlockStylersUI\CreationOfBlockStylers\obj\Debug\CreationOfBlockStylers.pdb

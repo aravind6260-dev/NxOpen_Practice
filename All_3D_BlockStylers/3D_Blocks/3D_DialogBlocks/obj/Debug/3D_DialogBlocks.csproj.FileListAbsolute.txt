@@ -1,0 +1,6 @@
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\3D_Blocks\3D_DialogBlocks\bin\Debug\3D_DialogBlocks.dll
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\3D_Blocks\3D_DialogBlocks\bin\Debug\3D_DialogBlocks.pdb
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\3D_Blocks\3D_DialogBlocks\obj\Debug\3D_DialogBlocks.csproj.AssemblyReference.cache
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\3D_Blocks\3D_DialogBlocks\obj\Debug\3D_DialogBlocks.csproj.CoreCompileInputs.cache
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\3D_Blocks\3D_DialogBlocks\obj\Debug\3D_DialogBlocks.dll
+C:\Users\arvredd\Desktop\Prac_C_S\Training_Practice\RaviTeja\Nxopen\3D_Blocks\3D_DialogBlocks\obj\Debug\3D_DialogBlocks.pdb

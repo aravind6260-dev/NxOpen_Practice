@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Nxopen\\3D_Blocks\\3D_DialogBlocks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A12B89E-41E6-460E-B0C6-94023453F87E}|3D_DialogBlocks.csproj|c:\\users\\arvredd\\desktop\\prac_c_s\\training_practice\\raviteja\\nxopen\\3d_blocks\\3d_dialogblocks\\a_blockcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A12B89E-41E6-460E-B0C6-94023453F87E}|3D_DialogBlocks.csproj|solutionrelative:a_blockcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A12B89E-41E6-460E-B0C6-94023453F87E}|3D_DialogBlocks.csproj|c:\\users\\arvredd\\desktop\\prac_c_s\\training_practice\\raviteja\\nxopen\\3d_blocks\\3d_dialogblocks\\a_blockui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A12B89E-41E6-460E-B0C6-94023453F87E}|3D_DialogBlocks.csproj|solutionrelative:a_blockui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A12B89E-41E6-460E-B0C6-94023453F87E}|3D_DialogBlocks.csproj|c:\\users\\arvredd\\desktop\\prac_c_s\\training_practice\\raviteja\\nxopen\\3d_blocks\\3d_dialogblocks\\_block4styler3d_dialogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A12B89E-41E6-460E-B0C6-94023453F87E}|3D_DialogBlocks.csproj|solutionrelative:_block4styler3d_dialogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A12B89E-41E6-460E-B0C6-94023453F87E}|3D_DialogBlocks.csproj|c:\\users\\arvredd\\desktop\\prac_c_s\\training_practice\\raviteja\\nxopen\\3d_blocks\\3d_dialogblocks\\conecreation_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A12B89E-41E6-460E-B0C6-94023453F87E}|3D_DialogBlocks.csproj|solutionrelative:conecreation_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A12B89E-41E6-460E-B0C6-94023453F87E}|3D_DialogBlocks.csproj|c:\\users\\arvredd\\desktop\\prac_c_s\\training_practice\\raviteja\\nxopen\\3d_blocks\\3d_dialogblocks\\sphereui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A12B89E-41E6-460E-B0C6-94023453F87E}|3D_DialogBlocks.csproj|solutionrelative:sphereui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A12B89E-41E6-460E-B0C6-94023453F87E}|3D_DialogBlocks.csproj|c:\\users\\arvredd\\desktop\\prac_c_s\\training_practice\\raviteja\\nxopen\\3d_blocks\\3d_dialogblocks\\coneui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A12B89E-41E6-460E-B0C6-94023453F87E}|3D_DialogBlocks.csproj|solutionrelative:coneui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "A_BlockUI.cs",
+              "DocumentMoniker": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Nxopen\\3D_Blocks\\3D_DialogBlocks\\A_BlockUI.cs",
+              "RelativeDocumentMoniker": "A_BlockUI.cs",
+              "ToolTip": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Nxopen\\3D_Blocks\\3D_DialogBlocks\\A_BlockUI.cs",
+              "RelativeToolTip": "A_BlockUI.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T09:58:18.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A_BlockCreation.cs",
+              "DocumentMoniker": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Nxopen\\3D_Blocks\\3D_DialogBlocks\\A_BlockCreation.cs",
+              "RelativeDocumentMoniker": "A_BlockCreation.cs",
+              "ToolTip": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Nxopen\\3D_Blocks\\3D_DialogBlocks\\A_BlockCreation.cs",
+              "RelativeToolTip": "A_BlockCreation.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAQwKAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T09:58:13.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SphereUI.cs",
+              "DocumentMoniker": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Nxopen\\3D_Blocks\\3D_DialogBlocks\\SphereUI.cs",
+              "RelativeDocumentMoniker": "SphereUI.cs",
+              "ToolTip": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Nxopen\\3D_Blocks\\3D_DialogBlocks\\SphereUI.cs",
+              "RelativeToolTip": "SphereUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T08:48:05.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConeUI.cs",
+              "DocumentMoniker": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Nxopen\\3D_Blocks\\3D_DialogBlocks\\ConeUI.cs",
+              "RelativeDocumentMoniker": "ConeUI.cs",
+              "ToolTip": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Nxopen\\3D_Blocks\\3D_DialogBlocks\\ConeUI.cs",
+              "RelativeToolTip": "ConeUI.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T08:45:47.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConeCreation_1.cs",
+              "DocumentMoniker": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Nxopen\\3D_Blocks\\3D_DialogBlocks\\ConeCreation_1.cs",
+              "RelativeDocumentMoniker": "ConeCreation_1.cs",
+              "ToolTip": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Nxopen\\3D_Blocks\\3D_DialogBlocks\\ConeCreation_1.cs",
+              "RelativeToolTip": "ConeCreation_1.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAwHYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T08:45:44.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Block4Styler3D_Dialogs.cs",
+              "DocumentMoniker": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Nxopen\\3D_Blocks\\3D_DialogBlocks\\_Block4Styler3D_Dialogs.cs",
+              "RelativeDocumentMoniker": "_Block4Styler3D_Dialogs.cs",
+              "ToolTip": "C:\\Users\\arvredd\\Desktop\\Prac_C_S\\Training_Practice\\RaviTeja\\Nxopen\\3D_Blocks\\3D_DialogBlocks\\_Block4Styler3D_Dialogs.cs",
+              "RelativeToolTip": "_Block4Styler3D_Dialogs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T07:31:55.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
